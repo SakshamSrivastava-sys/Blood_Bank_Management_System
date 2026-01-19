@@ -11,3 +11,8 @@ Features:
 Tech Stack:
 Frontend: HTML, CSS, JavaScript
 Database: MySQL 
+
+1)ADMIN HOME PAGE
+<img width="650" height="285" alt="Screenshot 2024-12-17 210903" src="https://github.com/user-attachments/assets/663a0e8e-00d8-4c4b-85c9-6bc658ce877e" />
+
+
